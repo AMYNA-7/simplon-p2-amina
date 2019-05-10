@@ -1,0 +1,17 @@
+#allumer_eteindre {
+	display:block;
+	width:30px;
+	height:5px;
+	background: #151719;
+	margin: 5px 0px;
+	border: 30px;
+	margin-left: 50px;
+	border-color: gold ,425px;
+}
+.image{
+		width:30px;
+	height:5px;
+	background: #151719;
+	margin: 5px 0px;
+	border: 30px;
+}
